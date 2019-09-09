@@ -2,8 +2,8 @@
  * Docsify config
  */
 gitalkConfig = {
-  clientID: "8b7cffeb4ae285e0e3e4",
-  clientSecret: "58d06f5220e953d6dac7d6723daf225177cc7bb3",
+  clientID: "ddad7a91dde4a6d2f804",
+  clientSecret: "43987d27c43146f45f445ba4628133742d5a56bc",
   repo: "prism-vue-doc",
   owner: "wlx200510",
   admin: ["wlx200510"],
