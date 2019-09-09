@@ -1,2 +1,3 @@
 - **使用说明**
-  - [写法展示](docs/first.md)
+  - [基本写法](docs/first.md)
+  - [进阶写法](docs/second.md)
